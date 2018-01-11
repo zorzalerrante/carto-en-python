@@ -1,0 +1,4 @@
+agency_id,agency_name,agency_url,agency_timezone
+TS,Transantiago,http://www.transantiago.cl,America/Santiago
+M,Metro de Santiago,http://www.metro.cl,America/Santiago
+MT,MetroTren Nos,http://www.trencentral.cl/bin/link.cgi/servicios/metrotren-nos/,America/Santiago
